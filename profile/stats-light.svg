@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mitch Ross&#39; GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 377, Total Commits  (last year) : 6909, Total PRs: 1674, Total Issues: 324, Contributed to (last year): 13</desc>
+        <desc id="descId">Total Stars Earned: 377, Total Commits  (last year) : 6917, Total PRs: 1692, Total Issues: 325, Contributed to (last year): 13</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 12.012518206461701;
+        stroke-dashoffset: 12.012446324114798;
       }
     }
   
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >324</text>
+      >325</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
